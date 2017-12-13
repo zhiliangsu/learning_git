@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Creating a new branch is fast, too.
 Creating a new branch is quick and simple.
 Branch test3.
+Git can merge branches.
